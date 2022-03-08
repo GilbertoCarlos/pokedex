@@ -9,7 +9,7 @@ Veja o exemplo a seguir do layout do projeto!
 
 ## Demo
 
-![Demo](.img/demo.jpg)
+![Demo](img/demo.jpg)
 
 ## Habilidades Desenvolvidas
 
